@@ -7,8 +7,8 @@ margin-left: 400px;
 }
 #headingStatement h2{
 font-size: 60px;
-width: 850px;
-height: 350px;
+width: 860px;
+height: 360px;
 }
 
 
@@ -243,19 +243,19 @@ min-height: 150px;
 .blogPoints{
 white-space: normal;
 overflow-wrap: break-word;
-min-width: 300px;
-min-height: 350px;
+min-width: 320px;
+min-height: 360px;
 font-size: smaller;
-padding-bottom: 30px;
+padding-bottom: 32px;
 
 }
 
 .blogPoints ul{
-min-height: 350px;
+min-height: 360px;
 }
 .blogPoints ul li{
-min-width: 300px;
-min-height: 30px;
+min-width: 320px;
+min-height: 32px;
 }
 
 .findBlogs{
@@ -264,7 +264,7 @@ margin-top: 100px;
 }
 
 #blogSearch{
-min-width: 250px;
+min-width: 240px;
 }
 
 #blogContainer{
@@ -274,7 +274,7 @@ padding-right: 15px;
 }
 
 .blogPost{
-min-width: 250px;
+min-width: 240px;
 }
 
 #blogPic{
@@ -282,7 +282,7 @@ width: 8vw ;
 height: 8vw ;
 }
 #searchBar {
-min-width:250px;
+min-width:240px;
 }
 
 }
@@ -328,7 +328,7 @@ height: 460px;
 background-color: rgb(230, 226, 226);
 display:block;
 border-radius: 10px;
-padding: 15px;
+padding: 16px;
 }
 
 .caseStudyShowcaseWebsite{
@@ -337,19 +337,19 @@ height: 400px;
 background-color: rgb(230, 226, 226);
 display:block;
 border-radius: 10px;
-padding: 15px;
+padding: 16px;
 
 
 }
 
 .caseStudyShowcase img{
-margin-top: 5px;
-margin-left: 90px;
+margin-top: 8px;
+margin-left: 88px;
 }
 
 .caseStudyShowcaseWebsite img{
-margin-top: 70px;
-margin-left: 35px;
+margin-top: 76px;
+margin-left: 40px;
 }
 
 
@@ -359,7 +359,7 @@ padding-top: 120px;
 
 #blogSearch{
 color:black;
-min-height:30px;
+min-height:32px;
 width: 400px;
 border-radius: 10px;
 font-family: 'Times New Roman', Times, serif;
@@ -377,20 +377,20 @@ justify-content: left;
 }
 #resultsList {
 list-style-type: none;
-min-width: 450px;
+min-width: 460px;
 padding:0;
  margin-top: 10px;
 }
 #resultsList li {
  padding: 8px;
- margin-right: 45px;
- min-width: 450px;
+ margin-right: 46px;
+ min-width: 460px;
  border-bottom: 1px solid black;
 }
 
 .blogIcon{
-min-width: 50px;
-min-height: 50px;
+min-width: 80px;
+min-height: 80px;
 border-radius: 50%;
 grid-column: 1/2;
 }
@@ -398,8 +398,8 @@ grid-column: 1/2;
 .blogText{
 grid-column: 2/2;
 display: grid;
-column-gap: 54px;
-grid-template-rows: 29.94px, 18.4px;
+column-gap: 56px;
+grid-template-rows: 32px, 24px;
 
 }
 
@@ -433,11 +433,11 @@ max-width: 400px;
 #blogContainer{
 display:grid;
 grid-template-columns: 16vw 42vw;
-grid-template-rows: 300px;
+grid-template-rows: 320px;
 margin: auto;
 width: 60%;
 padding-top: 120px;
-height: 1100px;
+height: 1200px;
 margin-bottom: 80px;
 }
 
@@ -457,7 +457,7 @@ border-radius: 20px;
 }
 
 .findBlogs{
-margin-left: 500px;
+margin-left: 520px;
 margin-top: 100px;
 }
 
@@ -486,7 +486,7 @@ flex-direction: column;
 justify-content: space-between;
 grid-column: 2/2;
 max-width: 42vw;
-max-height: 1100px;
+max-height: 1000px;
 
 }
 #blogContent div{
@@ -502,6 +502,7 @@ font-size:16px;
 flex: 1;
 max-width: 114vw;
 }
+
 
 
 
