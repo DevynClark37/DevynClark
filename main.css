@@ -326,7 +326,7 @@ font-size: 45px;
 width:400px;
 height: 476px;
 background-color: rgb(230, 226, 226);
-display:block;
+display: block;
 border-radius: 10px;
 padding-left: 30px;
 padding-top: 16px;
@@ -353,8 +353,6 @@ height: 680px;
 }
 
 .caseStudyShowcaseWebsite img{
-margin-top: 36px;
-margin-bottom: 36px;
 margin-left: 24px;
 margin-right:24px
 height: 680px;
@@ -511,6 +509,7 @@ font-size:16px;
 flex: 1;
 max-width: 114vw;
 }
+
 
 
 
