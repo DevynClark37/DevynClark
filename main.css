@@ -192,7 +192,7 @@ width: 400px;
 
 .caseStudyShowcase{
 min-width: 400px;
-padding-left: 30px;
+padding: 15px;
 }
 
 .caseStudyShowcaseWebsite{
@@ -328,7 +328,7 @@ height: 460px;
 background-color: rgb(230, 226, 226);
 display:block;
 border-radius: 10px;
-padding: 16px;
+padding-left: 30px;
 }
 
 .caseStudyShowcaseWebsite{
@@ -337,7 +337,7 @@ height: 400px;
 background-color: rgb(230, 226, 226);
 display:block;
 border-radius: 10px;
-padding: 16px;
+padding-left: 30px;
 
 
 }
@@ -502,6 +502,7 @@ font-size:16px;
 flex: 1;
 max-width: 114vw;
 }
+
 
 
 
