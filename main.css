@@ -335,7 +335,7 @@ padding-bottom: 16px;
 
 .caseStudyShowcaseWebsite{
 width:400px;
-height: 400px;
+height: 320px;
 background-color: rgb(230, 226, 226);
 display:block;
 border-radius: 10px;
@@ -511,6 +511,7 @@ font-size:16px;
 flex: 1;
 max-width: 114vw;
 }
+
 
 
 
