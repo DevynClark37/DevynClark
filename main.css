@@ -345,8 +345,9 @@ padding: 16px;
 }
 
 .caseStudyShowcase img{
-margin-top: 8px;
+margin-top: 16px;
 margin-left: 64px;
+margin-bottom:16px;
 }
 
 .caseStudyShowcaseWebsite img{
@@ -504,6 +505,7 @@ font-size:16px;
 flex: 1;
 max-width: 114vw;
 }
+
 
 
 
