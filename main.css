@@ -506,7 +506,7 @@ max-height: 1000px;
 
 max-width: 40vw;
 max-height: 14vw;
-margin-bottom: 8vw;
+margin-bottom: 4vw;
 
 font-size:16px;
 } 
@@ -514,8 +514,8 @@ font-size:16px;
 .blogParagraph p{
 flex: 1;
 max-width: 116vw;
-line-height: 32px;
 }
+
 
 
 
